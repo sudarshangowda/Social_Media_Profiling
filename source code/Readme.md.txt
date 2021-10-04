@@ -29,6 +29,7 @@ The results of clustering, correlation matrix, classifiaction report, confusion 
 in this code.
 along with this we have analyzed frequency of tweets per day and per month for both bots, and regular users. The
 data set is available in "dataset/crawled data/bots" and code is available in "source code/EDA/bots-tweet_frewuency" 
+But when we view the code its not showing the area graph, therefore you need to run the code to see tweet frequency graph.
 
 - One of the features used to understand Twitter users is sentiment of tweets, for annotating the sentiemt for the
 the tweets, we have used Vader sentiment tool. To cross check how well this tool is annotating sentiment we have used
